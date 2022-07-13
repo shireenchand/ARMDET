@@ -46,5 +46,3 @@ pip install -r requirements.txt
 2. The system will also be hosted once we get the required resources.
 3. Make the system more flexible.
 
-## Developed By 
-- GDSC AI/ML Department
