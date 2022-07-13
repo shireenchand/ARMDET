@@ -12,6 +12,6 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Developed by GDSC AI/ML Dept </p>
+<p>Developed by Shireen Chand </p>
 </div>
 """
