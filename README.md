@@ -1,6 +1,10 @@
 # <p align="center">ARMDET </p>
 
+### <p align="center">A project by the AI/ML Department of GDSC MPSTME </p>
 
+<p align="center">
+  <img width="400" src="https://github.com/shireenchand/ARMDET/blob/main/ARMDET.png" alt="ARMDET logo">
+</p>
 
 Currently, the world stands in a place where one small conflict can lead to a very dangerous environment. Generally, these situations are dangerous due to the use of weapons. All sorts of weapons can be used to scare or hurt individuals,communities and organizations.
 
