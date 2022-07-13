@@ -1,6 +1,6 @@
 # <p align="center">ARMDET </p>
 
-### <p align="center">A project by the AI/ML Department of GDSC MPSTME </p>
+
 
 <p align="center">
   <img width="400" src="https://github.com/shireenchand/ARMDET/blob/main/ARMDET.png" alt="ARMDET logo">
