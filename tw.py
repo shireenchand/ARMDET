@@ -7,7 +7,7 @@ class messenger:
 		self.location = location
 		self.time = time
 		self.date = date
-		self.to_number = "+919930770575"
+		self.to_number = "NUMBER TO SEND TO"
 
 	def send_message(self):
 		client = Client(auth_sid, auth_token)
