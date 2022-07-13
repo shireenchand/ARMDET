@@ -3,7 +3,7 @@ from firebase_admin import db
 import json
 
 
-databaseURL = "https://weapon-detection-91345-default-rtdb.firebaseio.com/"
+databaseURL = "YOUR DATABASE URL"
 
 cred_obj = firebase_admin.credentials.Certificate('key.json')
 
