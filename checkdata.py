@@ -24,17 +24,6 @@ def get_location():
 def widget():
 	location = get_location()
 	try:
-	# start()
-
-
-	# databaseURL = "https://weapon-detection-91345-default-rtdb.firebaseio.com/"
-
-	# cred_obj = firebase_admin.credentials.Certificate('key.json')
-
-	# default_app = firebase_admin.initialize_app(cred_obj, {
-	# 	'databaseURL':databaseURL,
-	# 	'storageBucket': 'weapon-detection-91345.appspot.com'
-	# 	})
 
 		bucket = storage.bucket() 
 		ref = db.reference(f"/{location}/Detections")
