@@ -6,6 +6,10 @@
   <img width="400" src="https://github.com/shireenchand/ARMDET/blob/main/ARMDET.png" alt="ARMDET logo">
 </p>
 
+<p align="center">
+  Demo - https://bit.ly/3bUrA0r
+</p>
+
 Currently, the world stands in a place where one small conflict can lead to a very dangerous environment. Generally, these situations are dangerous due to the use of weapons. All sorts of weapons can be used to scare or hurt individuals,communities and organizations.
 
 To avert such incidents, the use of a Weapon Detection System comes to play. An automatic weapon detection system can provide the early detection of potentially violent situations that is of paramount importance for citizens security. One way to prevent these situations is by detecting the presence of dangerous objects such as handguns,knives and other objects in surveillance videos.
