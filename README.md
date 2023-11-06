@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Demo - https://bit.ly/armdetdemo
+  Demo - https://bit.ly/armdet_demo
 </p>
 
 Currently, the world stands in a place where one small conflict can lead to a very dangerous environment. Generally, these situations are dangerous due to the use of weapons. All sorts of weapons can be used to scare or hurt individuals,communities and organizations.
